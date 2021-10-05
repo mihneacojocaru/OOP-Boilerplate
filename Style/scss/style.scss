@@ -6,6 +6,6 @@ Layout
 Components
 */
 
-@import "/Style/scss/utility/variables", "/Style/scss/utility/mixins";
+@import "./utility/variables", "./utility/mixins";
 
-@import "/Style/scss/base/reset", "/Style/scss/base/base";
+@import "./base/reset", "./base/base";
